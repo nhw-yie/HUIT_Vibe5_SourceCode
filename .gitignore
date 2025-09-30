@@ -1,0 +1,30 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+pubspec.lock
+
+# Python virtual environment
+venv/
+
+# Android
+**/android/.gradle/
+**/android/app/build/
+**/android/local.properties
+
+# iOS
+**/ios/Pods/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/.symlinks/
+
+# IDE configs
+.idea/
+.vscode/
+*.iml
+
+# Env/config (API keys, secrets)
+.env
+*.env
+lib/config.dart
