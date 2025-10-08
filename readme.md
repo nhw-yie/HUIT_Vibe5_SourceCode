@@ -4,7 +4,7 @@ Dự án bao gồm 2 phần chính:
 
 - **PM25_HUIT_Vibe5** → chứa model học máy và dữ liệu liên quan để dự đoán/giám sát chất lượng không khí (PM2.5).
 - **status_air** → project Flutter để xây dựng ứng dụng di động hiển thị và giám sát chất lượng không khí.
-
+- **Thông tin thêm:** [Link](https://drive.google.com/drive/u/0/folders/135wOboVC8UmDFC13Upz1en3WwQScvbdn)
 
 ## 📂 Cấu trúc thư mục
 
@@ -55,6 +55,7 @@ HUIT_Vibe5_SourceCode/
 | ![3](assets/3.jpg) | ![4](assets/4.jpg) |
 
 ---
+
 
 
 
